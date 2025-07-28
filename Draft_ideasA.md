@@ -57,6 +57,47 @@ MOBILE PHONE REPAIRS
 
 Trademe…
 
+----- -----
+
+
+
+### ExpiredSearch_RESULTS
+>>https://web.archive.org/web/20250728015703/https://www.trademe.co.nz/Browse/SearchResults.aspx?sort_order=bids_asc&from=advanced&advanced=true&searchstring=iphone+13+pro+max&current=0&cid=422&rptpath=344-422-&searchregion=100
+
+
+ExpiredSearch_Phone01(85%)
+>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5368337868?bof=gFcA9par
+>>https://web.archive.org/web/20250728022408/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5368337868?bof=gFcA9par
+>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5368337868?archive=1?bof=gFcA9par
+>>https://web.archive.org/web/20250728024558/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5368337868?archive=1?bof=gFcA9par
+>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5368337868?archive=1
+>>>>duplicate_snapshot_wait1hr(1457)
+
+<br><br>
+ExpiredSearch_Phone02(63%)
+
+>>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13/listing/5363225766?archive=1&bof=qVVdLw8D
+
+>>>>https://web.archive.org/web/20250728020823/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13/listing/5363225766?archive=1&bof=qVVdLw8D
+
+>>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13/listing/5363225766?archive=1
+
+>>>>https://web.archive.org/web/20250728021452/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13/listing/5363225766?archive=1
+
+<br><br>
+Example_CurrentListing01(87%-256)
+
+>>https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5442417370
+
+>>>>https://drive.google.com/file/d/1qAfS_JuQtrUeMjUw0acrKntmHPIygwOd/view?usp=sharing
+
+Example_CurrentListing02()
+
+
+
+
+
+
 
 
 
