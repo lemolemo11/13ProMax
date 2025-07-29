@@ -18,12 +18,14 @@
 <br>
 
 
-I had purchased the iPhone 13 Pro Max from Kool Zone $999.00\
-(Transaction total $1011.50 includes a tempered-glass screen-protector).
+I purchased an **iPhone 13 Pro Max** from **Kool Zone** for **$999.00**\
+(The transaction total is $1011.50; which includes a tempered-glass screen-protector for $12.50 - not-pursued).
 
 Initially I told the shop attendant I wanted to purchase a phone for making YouTube videos. I indicated an interest in using an iPhone 13 Pro Max for video, as there were some of these model iPhone on the shop-display.\
-I mentioned I would leave briefly; to learn about how to toggle the higher-quality video modes of the camera system.\
-After 5-10 minutes, I returned and activated some higher quality video options - such as `4K video resolution, HDR 10-bit color, Apple ProRes format , (4K) 60/30 frames per second`.yCIaKJGeFJ0
+I also have experience using my father's iPhone 13 ("standard edition"/not a 'Pro Max' model) to film various videos. Some of these activities filmed included sports, home maintenance/renovation, and product videography/photography.\
+\
+I briefly took a look at the phone with the shop attendant. I glanced over the video controls, and determined that I must read the documentation of the iPhone 13 Pro Max from internet sources (including Apple's own documentation) to test the 'most impressive' or 'highest valued' videography aspects. So I said I would do some reading on my own cellphone, and come back in a few minutes.\
+After 5-10 minutes, I returned and activated the pertaining video options - such as `4K video resolution, HDR 10-bit color, Apple ProRes format , (4K) 60/30 frames per second`.\
 
 Everything seemed okay in the store. "For a brief second I did notice the display had very mild jitter", but I thought it was inconsistent with how the phone would perform continuously after this point, and that this "laggy behavior" was possibly my eyesight "lacking clarity" in the lighting of the mall, combined with a phone that may be running some background tasks at the time.\
 I did not notice the jitter, as I assumed it was background tasks at the time - because when I switched to video mode (the main mode I was checking to see, as per my usage for making videos/YouTube) the jitter was unnoticeable.\
