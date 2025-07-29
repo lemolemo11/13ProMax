@@ -18,6 +18,7 @@
 <br>
 
 
+`Date: 2025-07-21 at 2:52PM`\
 I purchased an **iPhone 13 Pro Max** from **Kool Zone** for **$999.00**\
 (The transaction total is $1011.50; which includes a tempered-glass screen-protector for $12.50 - not-pursued).
 
