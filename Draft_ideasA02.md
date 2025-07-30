@@ -86,9 +86,15 @@ I would like a refund or exchange to another phone (if you have any which are fo
 I came back to the shop on the same day I purchased the phone, unhappy with the refurbished screen.
 I told them I want a refund. They say they cannot refund because there is no defect.
 
-——————
 
-BEFORE PURCHASE:
+
+
+<br>
+<br>
+<br>
+<br>
+
+#### BEFORE PURCHASE:
 - I was unaware the display was not only counterfeit/non-genuine,  but that it had significantly ‘decreased properties’,(brightness, color, refresh-rate, etc.)
 - After requesting a refund [SUN 20 JUL @1740hrs] was finally told the display was not "genuine OLED", but in fact "LCD". The cheap type of LCD which changes color significantly at large viewing angles.
 - I was unaware the device was refurbished. After snooping though the settings app, I found not only had the display been replaced, but a ‘battery’ and ‘camera module’ had also been replaced.
@@ -99,11 +105,18 @@ AFTER PURCHASE
 - I realise I was never aware of these alterations (which are visible clearly on trademe) made to the phone.
 - I realise that the device in its current state "does not offer all of the features of a ‘normal’ and ‘complete’ phone would", especially when using apple’s "phone-comparison tool"  [[ ScreenShot+ /web/20250720084608/https://www.apple.com/ph/iphone/compare/?modelList=iphone-13-pro-max,iphone-13,iphone-16-pro-max ]]
 
-——————
 
-STORE SIGNAGE:
 
-…..NORTH SIDE SIGN01
+
+<br>
+<br>
+<br>
+<br>
+
+## STORE SIGNAGE:
+
+
+#### NORTH SIDE SIGN01
 (A sign bolted to facade which stands tall over the counter; it sits under the top facade. It is a black metal sign with lasercut lettering)
 REPAIRS
 MOBILE
@@ -112,27 +125,30 @@ ACCESSORIES
 UNLOCKING
 CHARGING
 
-…..NORTH SIDE SIGN02
+#### NORTH SIDE SIGN02
 (Stuck to the counter - laminated wood veneer, a black sign is adhered to this veneered siding of the shop counter)
 KOOL ZONE 
 WE BUY AND SELL
 USED PHONES
 
-…..WEST SIDE SIGN01
+#### WEST SIDE SIGN01
 (Attached directly to the top facade, it stands tall above the counter. In yellow font, layered in front of a black-backed facade)
 Kool Zone
 
-…..WEST SIDE SIGN02
+#### WEST SIDE SIGN02
 (Bold Black lettering adhered directly to the wood-veneer counter - waist high, extends  to 2 feet off the floor)
 COMPUTER & TABLET
 MOBILE PHONE REPAIRS
 
-——————
 
-Trademe…
 
------ -----
 
+<br>
+<br>
+<br>
+<br>
+
+## Trademe…
 
 
 ### ExpiredSearch_RESULTS
@@ -174,10 +190,27 @@ Example_CurrentListing02()
 
 
 
+<br>
+<br>
+<br>
+<br>
 
-…..
+```yaml
+KANBAN(02)
+01. search-results, listings, archives & screenshots/recordings
+02. "## the story"
+03. "## signage"
+04. make 'revisions'...
+```
 
-KANBAN
+
+
+
+<br>
+<br>
+
+```
+KANBAN(01)
 ..git
 ..Video(AA) retrieve
 Video(AA) "yram"
@@ -186,3 +219,4 @@ Video(BA) "side-by-side"
 EXTERNAL_REC_OPTIONS
 EXTERNAL_REC_SSD
 (GP-plan)
+```
