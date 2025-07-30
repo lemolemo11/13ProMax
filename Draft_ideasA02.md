@@ -58,7 +58,7 @@ Based on the market prices on trademe, this phone seemed like it was priced high
 
 >> ## My remarks
 >>> For the price I paid (above market rate by around $200 + ~$50 success fee), I expected a device that would perform how it should. But, instead I received a phone with a screen that doesn't perform the way I would expect.\
-In correspondence with ServicePlus - Christchurch's Authorised Apple Service Provider (AASP) - **I was given a quote for $694.00 for parts and labour in replacing the 3rd party display.**\
+In correspondence with ServicePlus - Christchurch's Apple Authorised Service Provider (AASP) - **I was given a quote for $694.00 for parts and labour in replacing the 3rd party display. 3rd party repairers said possibly $800.**\
 I feel as though I have been misled about the condition of the device before purchasing. The display being lesser-quality defeats the purpose of buying the "Pro Max" model for doing videography outside... And the price I paid seems like the sale was "taking advantage of this non-obvious yet decision-making information".\
 I have listed in a section below various other trademe auctions for iPhones that have had no parts replaced, and all in immaculate condition for prices far below what this store had charged me. I believed when I was purchasing from this store that I was purchasing a very good product at a price that indicates the quality of the phone and its 3 month warranty.
 
