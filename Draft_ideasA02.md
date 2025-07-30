@@ -22,19 +22,24 @@
 I purchased an **iPhone 13 Pro Max** from **Kool Zone** for **$999.00**\
 (The transaction total is $1011.50; which includes a tempered-glass screen-protector for $12.50 - not-pursued).
 
-Initially I told the shop attendant I wanted to purchase a phone for making YouTube videos. I indicated an interest in using an iPhone 13 Pro Max for video, as there were some of these model iPhone on the shop-display.\
-I also have experience using my father's iPhone 13 ("standard edition"/not a 'Pro Max' model) to film various videos. Some of these activities filmed included sports, home maintenance/renovation, and product videography/photography.\
+
 \
-I briefly took a look at the phone with the shop attendant. I glanced over the video controls, and determined that I must read the documentation of the iPhone 13 Pro Max from internet sources (including Apple's own documentation) to test the 'most impressive' or 'highest valued' videography aspects. So I said I would do some reading on my own cellphone, and come back in a few minutes.\
+Initially, I told the shop attendant I wanted to purchase a phone for making YouTube videos. I indicated an interest in using an iPhone 13 Pro Max for video, as there were some of these model iPhone on the shop-display.\
+I also have experience using my Father's iPhone 13 ("standard edition"/not a 'Pro Max' model) to film various videos. Some of these activities filmed included sports, home maintenance/renovation, and product videography/photography.\
+\
+I briefly took a look at the phone with the shop attendant. I glanced over the video controls, and determined that I must read the documentation of the iPhone 13 Pro Max from internet sources (including Apple's own documentation) to test the 'most impressive' or 'highest valued' videography aspects. So I said, "I would do some reading on my own cellphone, and come back in a few minutes".\
 After 5-10 minutes, I returned and activated the pertaining video options - such as `4K video resolution, HDR 10-bit color, Apple ProRes format , (4K) 60/30 frames per second`.\
+\
+\
+Everything seemed okay in the store. "For a brief second I did notice the display had very mild jitter", but I thought it was inconsistent with how the phone would perform continuously after this point, and that this hard-to-see "laggy behavior" was possibly my eyesight "lacking clarity" in the lighting of the mall, combined with a phone that may be running some background tasks at the time.\
+The factors such as the lighting in the mall, and the brief opportunity I had to realise this fault, made it far-less apparent to me at the time of purchase.
 
-Everything seemed okay in the store. "For a brief second I did notice the display had very mild jitter", but I thought it was inconsistent with how the phone would perform continuously after this point, and that this "laggy behavior" was possibly my eyesight "lacking clarity" in the lighting of the mall, combined with a phone that may be running some background tasks at the time.\
-I did not notice the jitter, as I assumed it was background tasks at the time - because when I switched to video mode (the main mode I was checking to see, as per my usage for making videos/YouTube) the jitter was unnoticeable.\
-To also combine factors such as the lighting in the mall, and the brief opportunity I had to realise this fault, it was not something that was apparent to me at the time of purchase.\
->To put things in perspective... My father owns an iPhone13 (standard/non-pro), and I did spend a lot of time using the camera app, as well as occasionally teaching him how to use it. *I experienced very smooth display performance on his device.*
->and the "iPhone13 (standard edition)" does not comme with 120 frames-per-second pro-motion display. ***the "iPhone13 Pro", "iPhone 13 Pro Max" both contain "ProMotion technology" which allows the display to switch variably between 10 fps and 120 frames per second...***
+>To put things in perspective... My Father owns an iPhone13 (standard/non-pro), and I did spend a lot of time using the camera app, as well as occasionally teaching him how to use it. *I experienced very smooth display performance on his device.*
 
-I did not see the mild jitter as performance coherent with a phone of this status, because I was familiar with my father's own iPhone13 (non-pro variant). When I switched to video mode I did not notice any more lag and assumed it was a combination of background processes and the lighting making it look worse than things were, as I was certain that
+>the "iPhone13 (standard edition)" does not come with 120 frames-per-second ***pro-motion*** display. ***the "iPhone13 Pro", "iPhone 13 Pro Max" both contain "ProMotion technology" which allows the display to switch variably between 10 fps and 120 frames per second...***
+
+This qualified my logic in thinking this iPhone 13 "Pro Max" would significantly *outperform my experiences had with my Father's standard iPhone13*.
+
 
 
 
@@ -186,6 +191,145 @@ Example_CurrentListing02()
 
 
 
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+---
+
+## LISTINGS TRACK NOW
+
+1. check watchlist
+1. wayback everything
+1. display everything here (abovr)
+1. ..
+
+
+
+
+<br>
+<br>
+
+## Wayback Everything (listings)
+
+
+
+
+<br>
+
+### IN PROGRESS (listings)
+
+
+
+
+<br><br>
+
+```
+a - a - a
+list
+
+snapshot:
+.x
+screenshot:
+.x
+```
+
+
+
+
+<br><br>
+
+```
+a - a - a
+list
+
+x.search
+https://www.trademe.co.nz/Browse/SearchResults.aspx?sort_order=bids_asc&from=advanced&advanced=true&searchstring=iphone+13+pro+max&current=0&cid=0&rptpath=all&searchregion=100
+
+x.listing
+https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro/listing/5371572335?archive=1&bof=axMN1cGB
+
+expiredListingSearch_snapshot:
+
+expiredListingSearch_screenshot:
+
+
+listing_snapshot:
+.x
+listing_screenshot:
+.x
+```
+
+
+
+
+<br><br>
+
+```
+256 - Graphite - d8
+5442417370
+
+snapshot:
+https://web.archive.org/web/20250730120356/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5442417370
+
+screenshot:
+https://web.archive.org/web/20250730120356/http://web.archive.org/screenshot/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5442417370
+```
+
+
+
+
+<br><br>
+
+```
+256GB - TitaniumBlue - dh
+5430451844
+
+snapshot:
+https://web.archive.org/web/20250730032610/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5430451844
+
+screenshot:
+https://web.archive.org/web/20250730032610/http://web.archive.org/screenshot/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5430451844
+
+```
+
+<br><br>
+
+```
+256 - Gold +leather - to    ||NOT_ASKED||
+5441876762
+
+snapshot:
+https://web.archive.org/web/20250730121459/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5441876762
+
+screenshot:
+https://web.archive.org/web/20250730121459/http://web.archive.org/screenshot/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro-max/listing/5441876762
+```
+
+
+
+
+..
+
+
+
+
+
+<br>
+<br>
+
+### COMPLETED (listings)
+
+..
 
 
 
