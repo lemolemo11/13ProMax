@@ -41,7 +41,26 @@ The factors such as the lighting in the mall, and the brief opportunity I had to
 This qualified my logic in thinking this iPhone 13 "Pro Max" would significantly *outperform my experiences had with my Father's standard iPhone13*.
 
 
+I caught the bus towards home and started test filming. That's when I first noticed something was wrong. The screen had a strong color cast when viewed from an angle - "bright pink". It did not look bright and vivid in the daylight, like my Father's iPhone 13 standard edition. The UI did not move very fluid/smooth when I saw it in the day, either. Sometimes it would studtter a lot, for example, if I were scrolling through text - after flicking the screen to scroll; the scrolling would de-celerate in a jittery motion.\
+\
+For me, this was a shock. I thought this was a mistake. That same day I took the bus back to the mall and told the staff there that I was not happy with the quality of the display on the device.\
+The staff member communicated with the technician who also works there, and came back to me saying: "the technician has an understanding that nothing is wrong with the phone itself, so they cannot refund me". I was also told that the phone has an LCD panel, as opposed to an OLED panel. Later I looked at the "Settings app" to discover that the device has a non-genuine LCD panel as opposed to the 120Hz *Pro Motion* display advertised on apple's website.\
+The device also had some other parts replaced as well:
+ - The battery
+ - The Camera
+ - The Display
 
+I grew concerned that I was never told the phone had been refurbished from spare parts.\
+Based on the market prices on trademe, this phone seemed like it was priced higher than what the average second-hand price is for a mint condition device from a single-owner (see bottom of page for example listings).\
+- This phone more expensive than the majority of sold iPhone 13 Pro Max 256GB phones (on TradeMe) in mint condition without having any repairs done on them.
+- This sale took place outside of trademe (I had no idea this shop was also the store-front for their trademe page). This means I not only paid for a refurbished phone higher than market-rates -- but I also paid the $999 price without the 5.9% TradeMe success fee for this device ($58.94).
+- I came to this shop because they claimed they provide a 3 month warranty, and I had confidence that they would act in a reputable fashion. However, after discovering their TradeMe page, **I realised that on their TradeMe store many of their devices state they have had refurbished/replaced components. Something that was not stated anywhere in their physical store in the Mall.** *I even found my own phone on their page, but it was taken down before I had a chance to capture the page.* I have gathered evidence of the lack of signage and it is at the bottom of this article.
+
+>> ## My remarks
+>>> For the price I paid (above market rate by around $200 + ~$50 success fee), I expected a device that would perform how it should. But, instead I received a phone with a screen that doesn't perform the way I would expect.\
+In correspondence with ServicePlus - Christchurch's Authorised Apple Service Provider (AASP) - **I was given a quote for $694.00 for parts and labour in replacing the 3rd party display.**\
+I feel as though I have been misled about the condition of the device before purchasing. The display being lesser-quality defeats the purpose of buying the "Pro Max" model for doing videography outside... And the price I paid seems like the sale was "taking advantage of this non-obvious yet decision-making information".\
+I have listed in a section below various other trademe auctions for iPhones that have had no parts replaced, and all in immaculate condition for prices far below what this store had charged me. I believed when I was purchasing from this store that I was purchasing a very good product at a price that indicates the quality of the phone and its 3 month warranty.
 
 
 <br>
@@ -234,7 +253,7 @@ Example_CurrentListing02()
 <br><br>
 
 ```
-a - a - a
+256 - a - e1
 list
 
 snapshot:
@@ -249,24 +268,24 @@ screenshot:
 <br><br>
 
 ```
-a - a - a
-list
+256 - Gold - bumpercar88
+trademe listing ID: 5371572335
 
-x.search
+https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro/listing/5371572335?archive=1
+
+>>expiredListingSearch_snapshot 
+https://ghostarchive.org/archive/KwHyu
+https://archive.is/2zI1G
+https://archive.is/2zI1G/image
+>>archive made from the following URL (below), but this URL changes over time and is not persistent, so I had to make the above snapshots(above)...
 https://www.trademe.co.nz/Browse/SearchResults.aspx?sort_order=bids_asc&from=advanced&advanced=true&searchstring=iphone+13+pro+max&current=0&cid=0&rptpath=all&searchregion=100
 
-x.listing
-https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro/listing/5371572335?archive=1&bof=axMN1cGB
+>>listing_snapshot:
+https://web.archive.org/web/20250730134214/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro/listing/5371572335?archive=1
+https://ghostarchive.org/archive/TwqxP
 
-expiredListingSearch_snapshot:
-
-expiredListingSearch_screenshot:
-
-
-listing_snapshot:
-.x
-listing_screenshot:
-.x
+>>listing_screenshot:
+https://web.archive.org/web/20250730134214/http://web.archive.org/screenshot/https://www.trademe.co.nz/a/marketplace/mobile-phones/mobile-phones/iphone/iphone-13-pro/listing/5371572335?archive=1
 ```
 
 
@@ -275,7 +294,7 @@ listing_screenshot:
 <br><br>
 
 ```
-256 - Graphite - d8
+256 - Graphite - ahad8
 5442417370
 
 snapshot:
@@ -291,7 +310,7 @@ https://web.archive.org/web/20250730120356/http://web.archive.org/screenshot/htt
 <br><br>
 
 ```
-256GB - TitaniumBlue - dh
+256GB - TitaniumBlue - nitikadh
 5430451844
 
 snapshot:
@@ -305,7 +324,7 @@ https://web.archive.org/web/20250730032610/http://web.archive.org/screenshot/htt
 <br><br>
 
 ```
-256 - Gold +leather - to    ||NOT_ASKED||
+256 - Gold +leather - r.sakamoto
 5441876762
 
 snapshot:
@@ -347,6 +366,7 @@ KANBAN(02)
 04. make 'revisions'...
 ```
 
+https://www.webarchive.lu/
 
 
 
@@ -364,3 +384,13 @@ EXTERNAL_REC_OPTIONS
 EXTERNAL_REC_SSD
 (GP-plan)
 ```
+
+
+
+
+<br><br><br>
+
+`....................thanks for your time....................`\
+`////////////||||||||||||////////////||||||||||||////////////`\
+`||||||||||||https://ghostarchive.org/archive/LWr6V//////////`
+`||||||||||||////////////||||||||||||////////////||||||||||||`
